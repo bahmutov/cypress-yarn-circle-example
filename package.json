@@ -1,0 +1,28 @@
+{
+  "name": "cypress-yarn-circle-example",
+  "version": "1.0.0",
+  "description": "Example running Cypress E2E tests on CircleICI using Yarn and Orb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bahmutov/cypress-yarn-circle-example.git"
+  },
+  "keywords": [
+    "cypress",
+    "cypress-io",
+    "example",
+    "cypress-example"
+  ],
+  "author": "Gleb Bahmutov <gleb.bahmutov@gmail.com> (https://glebbahmutov.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bahmutov/cypress-yarn-circle-example/issues"
+  },
+  "homepage": "https://github.com/bahmutov/cypress-yarn-circle-example#readme",
+  "devDependencies": {
+    "cypress": "3.1.4"
+  }
+}
